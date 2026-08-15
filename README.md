@@ -1,5 +1,27 @@
-# Hyperbolic Hashimoto  
-A generalisation of Projects 5 and 8 into mixed‑curvature, non‑uniform lattices, integrating symbolic lattice specification with curvature‑weighted non‑backtracking operators and anisotropic hyperbolic‑type dynamical evolution.
+`2026-1017-D-read-001.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1017-D-read-001`  
+# Hyperbolic Hashimoto
+## A generalisation of Projects 5 and 8 into mixed‑curvature, non‑uniform lattices, integrating symbolic lattice specification with curvature‑weighted non‑backtracking operators and anisotropic hyperbolic‑type dynamical evolution.  
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1       
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A research module extending the non‑backtracking Hashimoto framework into mixed‑curvature, non‑uniform lattices, combining symbolic lattice specification with curvature‑weighted operators and anisotropic hyperbolic‑type dynamical evolution. Investigates how Euclidean, hyperbolic, and blended curvature profiles reshape spectral gaps, propagation modes, divergence rates, and stability envelopes. Serves as a controlled experimental substrate for analysing curvature‑driven dynamical behaviour beyond the flat‑geometry assumptions of Projects 5 and 8.  
+
+**Primary Model / Scheme**: Hyperbolic‑Curvature Hashimoto Scheme v0.1 — defines symbolic lattice‑geometry descriptors, curvature‑weight matrices Wκ, mixed‑curvature operator construction Bκ=WκB, and anisotropic hyperbolic‑type evolution rules. Establishes the formal substrate for evaluating curvature‑dependent spectral signatures, anisotropic propagation flows, divergence behaviour, and stability characteristics across heterogeneous geometric regimes.  
 
 ---
 
