@@ -1,10 +1,10 @@
-`2026-1017-D-read-001.md`  
+`2026-1011-D/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1017-D-read-001`  
+**Document Reference**: `2026-1011-D-read-000`  
 # Hyperbolic Hashimoto
 ## A generalisation of Projects 5 and 8 into mixed‑curvature, non‑uniform lattices, integrating symbolic lattice specification with curvature‑weighted non‑backtracking operators and anisotropic hyperbolic‑type dynamical evolution.  
 ### Project    
